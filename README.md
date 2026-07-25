@@ -100,3 +100,21 @@ Part of a small collection of **local-first AI** and **ESP32 / maker** tools:
 - [orcaslicer-cli-cookbook](https://github.com/CapitanaIcoachai/orcaslicer-cli-cookbook) — OrcaSlicer from the command line + fixes
 
 ⭐ If this saved you time, a star helps others find it.
+
+## Responsible use & EU AI Act · Uso responsabile · Uso responsable · Usage responsable
+
+**EN —** `sqlite-memory` is a free, open-source **developer tool/library** (MIT), **not** an end-user AI system, and it does **not** bundle any AI model — you connect your own (e.g. your local LLM via Ollama). Outputs from any model may be inaccurate or biased; verify important results (not legal, medical or financial advice). Third-party components (e.g. your local LLM via Ollama) keep their own licenses and usage policies. Under the **EU AI Act (Reg. (EU) 2024/1689)**, transparency and other obligations apply to the *product/deployer* built with this tool, not to this library in isolation; as a free & open-source component it falls under the Act's open-source provisions.
+
+**IT —** `sqlite-memory` è uno **strumento/libreria per sviluppatori** libero e open source (MIT), **non** un sistema di IA per l'utente finale, e **non** include alcun modello di IA (usi il tuo). Gli output dei modelli possono essere errati o distorti: verifica i risultati importanti (non è consulenza legale, medica o finanziaria). I componenti di terzi mantengono le proprie licenze. Ai sensi dell'**AI Act (Reg. UE 2024/1689)**, gli obblighi di trasparenza ricadono sul *prodotto/deployer* costruito con questo strumento, non sulla libreria in sé; come componente libero e open source rientra nelle relative esenzioni.
+
+**ES —** `sqlite-memory` es una **herramienta/biblioteca para desarrolladores** libre y de código abierto (MIT), **no** un sistema de IA para el usuario final, y **no** incluye ningún modelo de IA (conectas el tuyo). Las salidas de los modelos pueden ser inexactas o sesgadas: verifica los resultados importantes (no es asesoramiento legal, médico ni financiero). Los componentes de terceros conservan sus licencias. Según el **Reglamento de IA (UE 2024/1689)**, las obligaciones de transparencia recaen en el *producto/implementador*, no en la biblioteca en sí; como componente libre y de código abierto se acoge a las disposiciones open source.
+
+**FR —** `sqlite-memory` est un **outil/bibliothèque pour développeurs** libre et open source (MIT), **pas** un système d'IA destiné à l'utilisateur final, et n'**inclut aucun** modèle d'IA (vous connectez le vôtre). Les sorties des modèles peuvent être inexactes ou biaisées : vérifiez les résultats importants (ce n'est pas un conseil juridique, médical ou financier). Les composants tiers conservent leurs licences. Selon le **Règlement IA (UE 2024/1689)**, les obligations de transparence incombent au *produit/déployeur*, pas à la bibliothèque elle-même ; en tant que composant libre et open source, il relève des dispositions open source.
+
+### Free course: AI Basics for Developers
+
+Article 4 of the EU AI Act requires anyone building or using AI professionally to have documented
+AI competence — no certificate is legally required, just a record. We built a free, voluntary
+25-minute course that gives you that record, with a certificate of attendance:
+https://developcontroller.com/corso/
+No sign-up, no tracking, available in EN / IT / ES / FR.
